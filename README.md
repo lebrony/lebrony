@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lebrony
+- 👋 Hi, I’m Adam's
 - 👀 I’m interested in Web and Mobile development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on android projects
