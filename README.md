@@ -23,5 +23,5 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lebrony&count_private=true&show_icons=true&theme=dracula" alt="Adams" height="220"/> </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lebrony&layout=compact&theme=dracula" alt="Dev Billy" height="225" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebrony&layout=compact&theme=dracula" alt="Dev Billy" height="225" />
 </p>
