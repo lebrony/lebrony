@@ -13,7 +13,7 @@ For sometime now i have been doing Android and I'm slowly transitioning to compl
 * ✉️  You can contact me at [asandler778@gmail.com](mailto:asandler778@gmail.com)
 * 🚀  I'm currently working on [DSSA].(https://dssa.nottech.app)
 * 🧠  I'm learning Kotlin and picking up Swift soon
-* 🤝  I'm open to collaborating on Anything React related and Android.
+* 🤝  I'm open to collaborating on Anything Laravel related and Android.
 
 ### Skills
 
