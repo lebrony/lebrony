@@ -4,7 +4,7 @@ Hey 👋 My name is Adam Simon
 Backend and Mobile Developer
 ----------------------------
 
-I've been learning and building things from 2018. I've done back-end works and UI. In 2020 i found myself into with mobile development.
+I've been learning and building things from 2018. I've done back-end works and UI. In 2020 i found myself into mobile development.
 
 *   🌍  I'm based in Arusha, Tanzania
 *   🖥️  See my portfolio at [interestingideaz](https://www.interestingideaz.com)
