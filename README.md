@@ -9,8 +9,8 @@ I've been learning and building things from 2018. I've done back-end works and U
 📍 **Location:** Arusha, Tanzania  
 💼 **Portfolio:** [interestingideaz.com](https://www.interestingideaz.com)  
 📧 **Email:** [asandler778@gmail.com](mailto:asandler778@gmail.com)  
-🚀 **Currently Exploring:** New backend technologies
-🧠 **Always Learning:** Expanding knowledge in modern development tools and frameworks 
+🚀 **Currently Exploring:** New backend technologies  
+🧠 **Always Learning:** Expanding knowledge in modern development tools and frameworks  
 🤝 **Open to Collaboration:** Laravel & Android Development  
 
 
