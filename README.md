@@ -68,18 +68,11 @@ Backend and mobile engineer with 7+ years of experience across the full developm
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lebrony&show_icons=true&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebrony&langs_count=8&layout=compact&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true" />
+[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=lebrony&cc=0f172a&tc=ffffff&ic=3382ed&bc=0f172a)](https://github.com/lebrony)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lebrony&langs_count=8&layout=compact&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true)
 
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lebrony&stroke=ffffff&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-
-</div>
-
-<div align="center">
+![Streak](https://streak-stats.demolab.com/?user=lebrony&stroke=ffffff&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=lebrony&theme=darkhub&no-frame=true&row=1&column=6)
 
